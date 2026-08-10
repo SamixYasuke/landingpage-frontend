@@ -67,7 +67,7 @@ export default function Header() {
                     Careers
                   </div>
                   <div className="rounded-md px-3 py-2  font-medium text-sm 2xl:text-lg text-gray-300 hover:text-[#6318F1] cursor-pointer hover:scale-105 duration-200 ">
-                    Testimonial
+                    Testimonials
                   </div>
                   <div className="rounded-md px-3 py-2  font-medium text-sm 2xl:text-lg text-gray-300 hover:text-[#6318F1] cursor-pointer hover:scale-105 duration-200 ">
                     <AnchorLink offset={200} href="#about">
@@ -96,7 +96,7 @@ export default function Header() {
 
               <div className="hidden ml-2 lg:block ">
                 <button class="text-nowrap 2xl:px-6 px-2 py-2 bg-[#6318F1] text-[10px]  xl:text-sm text-white font-bold rounded-full transition-transform transform-gpu  hover:shadow-lg hover:bg-gradient-to-r hover:from-[#FC466B]/40 hover:to-[#3F5EFB]/40 hover:scale-105 duration-150">
-                  Apply Now
+                  Apply
                 </button>
               </div>
             </div>
